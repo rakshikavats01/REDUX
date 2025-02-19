@@ -1,4 +1,3 @@
-#React-REDUX
 React Redux is the official binding for using Redux with React. It helps manage application state efficiently by providing tools like useSelector and useDispatch, making it easier to access and update the store in a React app.
 
 Your project effectively demonstrates state management using React Redux Toolkit. It includes three buttons:
